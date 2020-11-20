@@ -1,2 +1,1 @@
-# jerry.github.io
-blog
+# just a blog
