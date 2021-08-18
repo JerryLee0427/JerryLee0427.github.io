@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>西郊有密林</title>
+  
+  
+  <link href="https://blog.mcjerry.design/atom.xml" rel="self"/>
+  
+  <link href="https://blog.mcjerry.design/"/>
+  <updated>2021-08-18T03:02:21.590Z</updated>
+  <id>https://blog.mcjerry.design/</id>
+  
+  <author>
+    <name>runoobjerry</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>郊眠寺记</title>
+    <link href="https://blog.mcjerry.design/posts/7e90044a.html"/>
+    <id>https://blog.mcjerry.design/posts/7e90044a.html</id>
+    <published>2021-08-16T07:01:39.000Z</published>
+    <updated>2021-08-18T03:02:21.590Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.mcjerry.design/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>创伤记忆与雪耻型民族主义</title>
+    <link href="https://blog.mcjerry.design/posts/ce2a9fa3.html"/>
+    <id>https://blog.mcjerry.design/posts/ce2a9fa3.html</id>
+    <published>2021-07-26T11:57:16.000Z</published>
+    <updated>2021-08-14T08:25:43.736Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;文 | 刘擎&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在当今中国的公共论述中，“民族主义”语词不断敲打着时代精神的敏感神经。无论是对具体事件的直觉反应，还是在理念层面上的立场言说，与此相关的争论都呈现出激烈的分歧甚至攻击，公众意识在此出现了两极化的对垒。在分裂谱系的一端，民族主义被写在信念的旗帜上，发出悲壮的召唤；而在另一端，民族主义被钉在历史的耻辱柱上，象征着蒙昧与灾难。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="分享" scheme="https://blog.mcjerry.design/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>云存储</title>
+    <link href="https://blog.mcjerry.design/posts/4701a8ab.html"/>
+    <id>https://blog.mcjerry.design/posts/4701a8ab.html</id>
+    <published>2021-04-18T02:18:48.000Z</published>
+    <updated>2021-08-18T07:14:38.459Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.mcjerry.design/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="IT" scheme="https://blog.mcjerry.design/tags/IT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>三鲜米粉</title>
+    <link href="https://blog.mcjerry.design/posts/222b63a6.html"/>
+    <id>https://blog.mcjerry.design/posts/222b63a6.html</id>
+    <published>2020-11-25T16:09:08.000Z</published>
+    <updated>2021-08-14T08:30:08.892Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;文 | 叫兽易小星&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;米粉之于湖南人，犹如热干面之于湖北人。葱油粑粑配一碗热腾腾的米粉，吃得满脸油汗，饱嗝连连，就是大部分湖南人一天生活的开始。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="分享" scheme="https://blog.mcjerry.design/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎</title>
+    <link href="https://blog.mcjerry.design/posts/welcome.html"/>
+    <id>https://blog.mcjerry.design/posts/welcome.html</id>
+    <published>2020-11-22T08:32:03.000Z</published>
+    <updated>2021-08-18T07:21:38.349Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.mcjerry.design/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给破笔记本安装黑苹果</title>
+    <link href="https://blog.mcjerry.design/posts/827e125.html"/>
+    <id>https://blog.mcjerry.design/posts/827e125.html</id>
+    <published>2020-11-20T10:02:08.000Z</published>
+    <updated>2021-08-18T07:00:46.464Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;序言&quot;&gt;序言&lt;/h2&gt;
+&lt;p&gt;这几天&lt;s&gt;闲得蛋疼&lt;/s&gt;，看了看自己的那台今年3月份买的&lt;a href=&quot;https://item.jd.com/100007985656.html&quot;&gt;acer笔记本&lt;/a&gt;，突然萌生出了给它也吃上黑苹果的想法，话不多说，咱们说干就干！&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="瞎折腾" scheme="https://blog.mcjerry.design/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
+  
+</feed>
