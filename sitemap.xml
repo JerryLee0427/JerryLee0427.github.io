@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.mcjerry.design/posts/welcome.html</loc>
+    
+    <lastmod>2021-08-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.mcjerry.design/posts/4701a8ab.html</loc>
     
     <lastmod>2021-08-18</lastmod>
@@ -47,13 +54,6 @@
     <loc>https://blog.mcjerry.design/about/index.html</loc>
     
     <lastmod>2021-08-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.mcjerry.design/posts/welcome.html</loc>
-    
-    <lastmod>2021-08-15</lastmod>
     
   </url>
   
