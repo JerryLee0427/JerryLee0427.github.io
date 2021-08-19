@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.mcjerry.design/about/index.html</loc>
+    
+    <lastmod>2021-08-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.mcjerry.design/posts/7e90044a.html</loc>
     
     <lastmod>2021-08-19</lastmod>
@@ -45,13 +52,6 @@
   
   <url>
     <loc>https://blog.mcjerry.design/categories/index.html</loc>
-    
-    <lastmod>2021-08-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.mcjerry.design/about/index.html</loc>
     
     <lastmod>2021-08-16</lastmod>
     
@@ -109,14 +109,14 @@
   </url>
   
   <url>
-    <loc>https://blog.mcjerry.design/tags/IT/</loc>
+    <loc>https://blog.mcjerry.design/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.mcjerry.design/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/</loc>
+    <loc>https://blog.mcjerry.design/tags/IT/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
