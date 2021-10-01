@@ -109,7 +109,7 @@
 
   
   <url>
-    <loc>https://blog.jerrywick.com/tags/IT/</loc>
+    <loc>https://blog.jerrywick.com/tags/%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -123,14 +123,7 @@
   </url>
   
   <url>
-    <loc>https://blog.jerrywick.com/tags/%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2021-10-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.jerrywick.com/tags/%E6%91%84%E5%BD%B1/</loc>
+    <loc>https://blog.jerrywick.com/tags/IT/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -138,6 +131,13 @@
   
   <url>
     <loc>https://blog.jerrywick.com/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2021-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerrywick.com/tags/%E6%91%84%E5%BD%B1/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
