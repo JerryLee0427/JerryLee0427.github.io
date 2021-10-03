@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>西郊有密林</title>
   
-  
+  <subtitle>Jerry的个人博客</subtitle>
   <link href="https://blog.jerrywick.com/atom.xml" rel="self"/>
   
   <link href="https://blog.jerrywick.com/"/>
