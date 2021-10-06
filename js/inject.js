@@ -8,6 +8,6 @@ $(window).scroll(function(e) {
   
   var buyutme=(scrollSeviye/6000)+1;
  
-  $('.').css('-webkit-filter', 'blur('+scrollSeviye/120+'px)');
+  $('#page-header.style').css('-webkit-filter', 'blur('+scrollSeviye/120+'px)');
   
 });
