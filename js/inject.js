@@ -2,12 +2,12 @@ $(window).scroll(function(e) {
 
   var scrollSeviye = $(this).scrollTop();
   
-  if(scrollSeviye>2400){
-    scrollSeviye=2400;
+  if(scrollSeviye>600){
+    scrollSeviye=600;
   }
   
-  var buyutme=(scrollSeviye/6000)+1;
+  var buyutme=(scrollSeviye/600)+1;
  
-  $('#page-header.style').css('-webkit-filter', 'blur('+scrollSeviye/120+'px)');
-  
+  $('#blur').css('backdrop-filter', 'blur('+scrollSeviye/120+'px)');
+  $('#blur').css('-webkit-backdrop-filter', 'blur('+scrollSeviye/120+'px)');
 });
